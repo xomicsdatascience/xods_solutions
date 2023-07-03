@@ -1,0 +1,4 @@
+This is an example that contains spaces as well as non-letter characters. Some of the other files also have non-letter characters since making a newline uses a hidden character to indicate that lines should be broken up.
+This character is represented by \n. The backslash \ is used as an escape character; it tells text readers that the following character should not be treated like a normal character.
+Some operating systems have \n represent newline + return to the left of the screen.
+Other operating systems (Windows) uses two characters for that: \n for the newline, \r for the return. \r is known as "Carriage Return", dates back to old printers. \r told the printer to back to the start of the line.
